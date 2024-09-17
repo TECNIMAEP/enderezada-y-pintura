@@ -750,7 +750,8 @@ font-size: 1.25rem;
         border-radius: 1.5rem;
     }
     .productimg {
-        width: 110px;
+         width: 200px;
+        height: 140PX;
     }
     .pdtitle {
         font-size: 1rem;
